@@ -18,6 +18,10 @@ Desenvolver testes automatizados funcionais (Selenium) e unitários (PyTest) par
 - Acessar a seção "Elements"  
 - Preencher e submeter o formulário "Text Box" com sucesso  
 
+**Testes Unitários**  
+- Verificar se o botão "Elements" é exibido corretamente  
+- Verificar redirecionamento para a página de "Elements"
+- 
 ---
 
 **Tecnologias Usadas**  
