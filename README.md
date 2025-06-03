@@ -1,4 +1,4 @@
-﻿# Atividade: Qualidade Software
+﻿# Atividade Qualidade Software
 
 # Testes Automatizados com Selenium e PyTest
 
