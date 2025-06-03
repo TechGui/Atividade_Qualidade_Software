@@ -7,12 +7,12 @@ Professor: Luciano Zanuz
 
 ---
 
-🎯 **Objetivo**  
+**Objetivo**  
 Desenvolver testes automatizados funcionais (Selenium) e unitários (PyTest) para o site [DemoQA](https://demoqa.com/).
 
 ---
 
-📋 **Cenários Funcionais Automatizados (BDD)**  
+**Cenários Funcionais Automatizados (BDD)**  
 - Verificar o título da página principal  
 - Verificar se o botão "Elements" está visível  
 - Acessar a seção "Elements"  
@@ -20,7 +20,7 @@ Desenvolver testes automatizados funcionais (Selenium) e unitários (PyTest) par
 
 ---
 
-🛠️ **Tecnologias Usadas**  
+**Tecnologias Usadas**  
 - Python 3.12  
 - Selenium 4  
 - PyTest  
